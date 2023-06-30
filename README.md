@@ -1,6 +1,6 @@
-# amvstrm's API
+# Tensura API
 
-amvstrm's API that powered [amvstr.ml](https://amvstr.ml)
+Tensura API that powered [amvstr.ml](https://amvstr.ml)
 
 _This API is different from the one that is use in <https://amvstr.ml>.
 Please use <https://new-api.amvstr.ml> instead._
